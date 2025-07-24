@@ -1,3 +1,3 @@
 # My nvim config.
 
-** Forked by nvchad, and modified by me & **
+**Forked by nvchad, and modified by me &**
